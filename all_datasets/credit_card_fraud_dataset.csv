@@ -71,7 +71,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 70,780.15,15,Electronics,0,0,75,3,27,0
 71,266.31,12,Grocery,0,0,82,2,31,0
 72,39.88,19,Clothing,0,0,29,1,29,0
-73,1.0,18,Travel,0,1,62,2,49,0
+73,1,18,Travel,0,1,62,2,49,0
 74,304.18,4,Grocery,0,0,30,1,56,0
 75,220.88,22,Clothing,0,1,75,1,62,0
 76,235.02,4,Travel,0,1,38,2,53,0
@@ -195,7 +195,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 194,180.48,23,Travel,0,0,69,4,62,0
 195,74.53,1,Travel,0,0,80,3,27,0
 196,77.32,13,Travel,0,0,88,3,55,0
-197,233.0,23,Electronics,0,0,46,0,50,0
+197,233,23,Electronics,0,0,46,0,50,0
 198,409.34,5,Food,0,0,87,2,22,0
 199,392.6,8,Food,0,0,52,1,33,0
 200,272.44,6,Electronics,0,0,68,0,37,0
@@ -554,7 +554,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 553,144.5,6,Grocery,1,0,94,1,43,0
 554,148.16,23,Grocery,0,0,29,2,44,0
 555,376.7,18,Clothing,0,0,48,2,51,0
-556,93.0,6,Electronics,0,0,53,1,27,0
+556,93,6,Electronics,0,0,53,1,27,0
 557,25.9,2,Grocery,0,0,26,3,26,0
 558,5.26,7,Clothing,0,0,30,0,56,0
 559,253.27,0,Grocery,0,0,58,3,30,0
@@ -607,7 +607,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 606,111.17,7,Food,0,0,77,2,66,0
 607,41.6,11,Grocery,0,0,97,4,40,0
 608,81.54,19,Clothing,0,0,40,1,54,0
-609,126.0,1,Grocery,0,0,54,6,36,0
+609,126,1,Grocery,0,0,54,6,36,0
 610,211.04,9,Clothing,0,0,44,4,66,0
 611,7.22,18,Food,0,0,76,5,37,0
 612,289.17,8,Food,1,0,60,0,27,0
@@ -733,7 +733,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 732,303.32,18,Travel,0,0,94,2,57,0
 733,196.96,18,Travel,0,0,87,0,18,0
 734,133.27,21,Food,1,1,58,1,48,0
-735,80.0,16,Grocery,0,0,96,8,43,0
+735,80,16,Grocery,0,0,96,8,43,0
 736,377.5,21,Travel,0,0,41,3,33,0
 737,89.7,18,Clothing,0,0,85,0,55,0
 738,305.29,15,Food,0,0,42,2,29,0
@@ -753,7 +753,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 752,505.91,11,Clothing,0,0,29,1,52,0
 753,177.85,9,Clothing,0,0,25,2,64,0
 754,73.41,12,Travel,0,1,38,2,34,0
-755,27.0,17,Grocery,0,0,55,3,20,0
+755,27,17,Grocery,0,0,55,3,20,0
 756,284.4,9,Food,0,0,75,1,26,0
 757,174.2,18,Food,1,0,43,0,24,0
 758,137.23,19,Grocery,0,0,56,2,37,0
@@ -852,7 +852,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 851,12.5,3,Electronics,0,0,87,3,64,0
 852,249.5,11,Electronics,0,0,52,1,38,0
 853,42.41,22,Clothing,0,0,99,3,46,0
-854,411.0,13,Food,0,0,55,1,49,0
+854,411,13,Food,0,0,55,1,49,0
 855,41.33,1,Clothing,0,0,79,3,66,0
 856,38.08,0,Food,0,0,76,1,43,0
 857,6.7,17,Clothing,1,0,98,4,30,0
@@ -1008,8 +1008,8 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 1007,212.14,13,Clothing,0,0,88,1,61,0
 1008,340.52,1,Food,1,0,29,1,31,1
 1009,51.7,15,Travel,1,1,72,1,39,0
-1010,121.0,12,Electronics,0,0,90,2,47,0
-1011,45.0,8,Travel,0,0,51,1,65,0
+1010,121,12,Electronics,0,0,90,2,47,0
+1011,45,8,Travel,0,0,51,1,65,0
 1012,791.2,6,Travel,0,1,48,4,25,0
 1013,519.02,15,Grocery,0,0,80,3,61,0
 1014,7.24,9,Clothing,0,0,69,2,48,0
@@ -1073,7 +1073,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 1072,47.89,15,Food,0,0,90,3,58,0
 1073,7.74,4,Electronics,1,0,39,1,18,0
 1074,3.25,18,Food,0,0,70,2,67,0
-1075,792.0,6,Travel,0,0,81,1,43,0
+1075,792,6,Travel,0,0,81,1,43,0
 1076,100.48,13,Grocery,0,1,32,2,20,0
 1077,87.31,1,Travel,0,0,61,3,60,0
 1078,204.9,2,Clothing,0,0,81,0,28,0
@@ -1258,7 +1258,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 1257,40.28,5,Grocery,0,0,73,2,19,0
 1258,121.77,20,Travel,1,0,87,5,58,0
 1259,11.95,18,Grocery,0,0,45,0,38,0
-1260,157.0,13,Grocery,0,0,73,2,48,0
+1260,157,13,Grocery,0,0,73,2,48,0
 1261,56.4,20,Food,0,0,33,3,35,0
 1262,287.52,14,Electronics,0,1,45,0,33,0
 1263,66.89,2,Grocery,0,0,77,1,31,0
@@ -1402,7 +1402,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 1401,32.9,11,Food,0,0,91,2,46,0
 1402,33.02,17,Food,0,0,45,3,31,0
 1403,6.72,9,Food,0,0,45,4,30,0
-1404,240.0,6,Clothing,0,0,84,6,49,0
+1404,240,6,Clothing,0,0,84,6,49,0
 1405,196.21,17,Grocery,0,1,53,1,59,0
 1406,115.86,11,Food,1,0,57,2,42,0
 1407,334.62,13,Travel,0,0,63,0,44,0
@@ -1567,9 +1567,9 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 1566,99.21,11,Electronics,0,1,29,2,58,0
 1567,198.23,21,Travel,1,0,40,1,28,0
 1568,18.07,12,Travel,0,0,65,2,48,0
-1569,176.0,13,Food,0,1,98,0,37,0
+1569,176,13,Food,0,1,98,0,37,0
 1570,108.19,21,Clothing,0,1,43,3,60,0
-1571,159.0,11,Travel,0,0,89,2,56,0
+1571,159,11,Travel,0,0,89,2,56,0
 1572,33.11,19,Travel,0,0,46,0,32,0
 1573,240.32,11,Clothing,0,0,41,1,52,0
 1574,357.53,5,Electronics,0,0,59,3,34,0
@@ -1741,8 +1741,8 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 1740,96.24,8,Travel,0,0,71,1,39,0
 1741,316.36,11,Travel,0,0,25,3,29,0
 1742,238.11,18,Travel,0,0,38,2,63,0
-1743,264.0,21,Electronics,0,0,25,0,56,0
-1744,2.0,6,Electronics,1,0,93,1,63,0
+1743,264,21,Electronics,0,0,25,0,56,0
+1744,2,6,Electronics,1,0,93,1,63,0
 1745,96.86,8,Clothing,0,0,34,3,29,0
 1746,118.17,20,Food,0,0,97,3,65,0
 1747,3.49,15,Grocery,0,0,73,2,63,0
@@ -1957,7 +1957,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 1956,486.86,1,Clothing,0,0,98,1,25,0
 1957,185.18,7,Food,0,0,62,4,21,0
 1958,98.44,20,Clothing,0,0,58,6,63,0
-1959,182.0,10,Travel,0,0,58,6,41,0
+1959,182,10,Travel,0,0,58,6,41,0
 1960,277.23,17,Clothing,0,1,43,2,66,0
 1961,22.67,22,Grocery,0,0,27,0,19,0
 1962,94.94,12,Grocery,0,0,60,0,29,0
@@ -2477,12 +2477,12 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 2476,367.2,23,Clothing,0,0,37,1,37,0
 2477,25.2,10,Food,0,0,65,0,40,0
 2478,281.35,13,Clothing,0,0,35,3,67,0
-2479,24.0,23,Grocery,0,0,65,2,53,0
+2479,24,23,Grocery,0,0,65,2,53,0
 2480,284.56,9,Travel,1,1,99,2,43,0
 2481,58.08,14,Food,0,0,71,4,60,0
 2482,377.34,6,Clothing,0,0,73,3,18,0
 2483,518.97,6,Food,1,0,89,3,56,0
-2484,29.0,9,Electronics,1,0,59,3,60,0
+2484,29,9,Electronics,1,0,59,3,60,0
 2485,111.81,3,Travel,0,0,59,1,49,0
 2486,713.28,17,Grocery,0,0,91,3,65,0
 2487,118.89,9,Food,0,0,28,5,68,0
@@ -2533,7 +2533,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 2532,317.34,8,Grocery,0,0,48,1,42,0
 2533,62.82,19,Food,0,1,37,1,38,0
 2534,2.6,20,Grocery,1,0,50,2,63,0
-2535,241.0,5,Grocery,0,0,64,1,51,0
+2535,241,5,Grocery,0,0,64,1,51,0
 2536,323.4,11,Clothing,0,0,50,1,43,0
 2537,242.8,8,Travel,0,0,69,1,21,0
 2538,27.75,6,Travel,0,0,54,5,42,0
@@ -2595,7 +2595,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 2594,132.18,20,Travel,0,0,64,2,62,0
 2595,27.75,9,Travel,0,0,31,2,43,0
 2596,268.78,0,Electronics,0,0,79,1,63,0
-2597,57.0,5,Clothing,0,0,75,3,57,0
+2597,57,5,Clothing,0,0,75,3,57,0
 2598,123.58,10,Electronics,0,1,26,3,63,0
 2599,60.2,1,Electronics,0,0,38,0,23,0
 2600,25.86,6,Grocery,0,0,41,4,61,0
@@ -2619,7 +2619,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 2618,56.74,18,Travel,0,0,78,2,22,0
 2619,332.94,19,Food,0,0,82,0,27,0
 2620,67.67,0,Food,0,0,71,3,64,0
-2621,280.0,7,Food,0,0,85,3,57,0
+2621,280,7,Food,0,0,85,3,57,0
 2622,400.4,16,Grocery,0,0,64,1,36,0
 2623,102.39,20,Travel,0,0,42,7,25,0
 2624,433.32,21,Travel,0,0,38,1,32,0
@@ -2664,7 +2664,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 2663,43.74,16,Food,0,0,78,3,21,0
 2664,203.87,10,Grocery,0,0,43,3,29,0
 2665,168.46,4,Travel,0,0,51,0,44,0
-2666,63.0,15,Clothing,0,1,64,2,31,0
+2666,63,15,Clothing,0,1,64,2,31,0
 2667,26.44,14,Food,0,0,31,2,33,0
 2668,189.81,9,Food,0,0,49,0,46,0
 2669,241.5,13,Electronics,0,0,73,2,29,0
@@ -2747,7 +2747,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 2746,273.63,22,Electronics,0,0,51,0,44,0
 2747,155.42,20,Food,0,0,37,0,31,0
 2748,28.61,12,Travel,0,0,76,2,53,0
-2749,300.0,4,Grocery,0,0,88,5,63,0
+2749,300,4,Grocery,0,0,88,5,63,0
 2750,181.89,14,Grocery,0,0,82,0,58,0
 2751,88.43,7,Travel,0,0,43,1,27,0
 2752,201.83,6,Travel,0,0,27,2,41,0
@@ -2901,7 +2901,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 2900,6.89,23,Grocery,0,1,43,3,35,0
 2901,24.63,17,Grocery,0,0,54,0,49,0
 2902,261.09,2,Electronics,0,0,65,1,61,0
-2903,0.0,16,Travel,0,0,72,1,23,0
+2903,0,16,Travel,0,0,72,1,23,0
 2904,96.99,23,Grocery,0,0,52,4,34,0
 2905,133.06,23,Clothing,0,0,55,1,29,0
 2906,10.11,6,Electronics,0,0,81,0,51,0
@@ -2946,7 +2946,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 2945,256.14,11,Clothing,0,1,85,4,62,0
 2946,19.47,4,Grocery,0,0,69,2,47,0
 2947,129.82,4,Clothing,0,0,82,0,40,0
-2948,128.0,22,Clothing,0,0,53,2,46,0
+2948,128,22,Clothing,0,0,53,2,46,0
 2949,82.96,0,Travel,0,0,78,1,38,0
 2950,486.35,3,Grocery,0,0,58,4,50,0
 2951,316.33,20,Clothing,0,0,45,2,35,0
@@ -2955,7 +2955,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 2954,111.49,11,Electronics,0,0,34,3,57,0
 2955,456.88,15,Electronics,0,0,82,0,48,0
 2956,213.5,23,Food,0,0,52,1,59,0
-2957,235.0,16,Food,0,0,85,4,25,0
+2957,235,16,Food,0,0,85,4,25,0
 2958,356.09,20,Clothing,0,1,54,0,20,0
 2959,57.65,9,Electronics,0,0,52,1,52,0
 2960,296.18,16,Clothing,0,0,53,2,55,0
@@ -3067,7 +3067,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 3066,56.01,20,Food,1,0,64,3,21,0
 3067,2.74,6,Travel,0,0,57,2,24,0
 3068,603.51,10,Travel,0,0,33,6,25,0
-3069,52.0,10,Clothing,0,0,73,6,32,0
+3069,52,10,Clothing,0,0,73,6,32,0
 3070,202.88,13,Clothing,0,0,91,2,58,0
 3071,220.74,2,Food,0,0,47,0,46,0
 3072,169.49,13,Grocery,1,0,46,3,56,0
@@ -3113,7 +3113,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 3112,49.88,6,Travel,0,0,79,2,20,0
 3113,225.35,0,Electronics,0,0,34,7,20,1
 3114,17.25,5,Electronics,0,0,35,1,28,0
-3115,40.0,17,Electronics,0,0,27,3,60,0
+3115,40,17,Electronics,0,0,27,3,60,0
 3116,377.89,12,Food,0,0,47,1,69,0
 3117,241.59,21,Food,0,0,86,1,22,0
 3118,2.49,18,Clothing,0,0,94,3,61,0
@@ -3457,7 +3457,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 3456,32.97,21,Food,0,0,63,1,43,0
 3457,124.9,13,Grocery,0,0,41,3,69,0
 3458,211.33,2,Electronics,0,0,40,0,55,0
-3459,215.0,16,Clothing,1,0,51,0,51,0
+3459,215,16,Clothing,1,0,51,0,51,0
 3460,188.27,10,Electronics,0,0,73,3,30,0
 3461,57.96,9,Clothing,0,0,27,5,45,0
 3462,30.57,20,Travel,1,0,66,3,37,0
@@ -3523,7 +3523,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 3522,113.98,11,Food,0,0,54,2,44,0
 3523,56.29,0,Food,0,0,57,0,39,0
 3524,19.16,6,Travel,1,0,78,0,21,0
-3525,33.0,18,Food,0,0,81,0,44,0
+3525,33,18,Food,0,0,81,0,44,0
 3526,28.68,0,Travel,0,0,55,0,68,0
 3527,650.66,23,Food,1,0,47,2,62,0
 3528,256.35,6,Clothing,0,0,76,4,49,0
@@ -3534,7 +3534,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 3533,71.08,23,Grocery,0,0,32,4,27,0
 3534,64.04,4,Clothing,0,0,46,2,67,0
 3535,47.63,22,Food,0,0,86,3,40,0
-3536,25.0,18,Grocery,0,0,78,2,41,0
+3536,25,18,Grocery,0,0,78,2,41,0
 3537,53.34,0,Clothing,0,0,59,3,65,0
 3538,79.02,0,Clothing,0,0,39,2,21,0
 3539,201.75,17,Electronics,0,0,29,4,34,0
@@ -3553,7 +3553,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 3552,26.55,9,Travel,1,0,81,1,25,0
 3553,156.45,1,Grocery,0,0,50,1,69,0
 3554,126.76,6,Food,0,0,84,2,44,0
-3555,28.0,19,Grocery,1,0,46,1,31,0
+3555,28,19,Grocery,1,0,46,1,31,0
 3556,176.07,1,Travel,0,0,48,2,21,0
 3557,57.55,18,Clothing,0,0,36,2,63,0
 3558,120.44,5,Electronics,0,0,99,2,25,0
@@ -3570,7 +3570,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 3569,270.14,1,Clothing,0,0,96,1,36,0
 3570,356.76,23,Clothing,0,0,25,1,55,0
 3571,67.81,0,Travel,0,0,65,2,44,0
-3572,139.0,8,Travel,0,0,83,0,40,0
+3572,139,8,Travel,0,0,83,0,40,0
 3573,329.99,8,Clothing,0,0,37,3,36,0
 3574,819.31,12,Travel,0,0,78,3,30,0
 3575,396.52,7,Electronics,1,0,71,2,47,0
@@ -3583,7 +3583,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 3582,327.88,15,Clothing,0,0,58,1,67,0
 3583,80.73,15,Grocery,0,0,30,1,67,0
 3584,353.64,19,Grocery,0,0,72,3,64,0
-3585,94.0,2,Food,1,0,42,0,23,0
+3585,94,2,Food,1,0,42,0,23,0
 3586,71.61,5,Food,1,0,63,1,34,0
 3587,108.92,0,Clothing,0,0,31,7,46,1
 3588,258.73,20,Travel,0,0,30,0,57,0
@@ -3677,7 +3677,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 3676,59.39,14,Clothing,0,0,76,1,25,0
 3677,34.3,14,Clothing,0,0,29,1,20,0
 3678,85.97,11,Food,0,0,77,1,49,0
-3679,291.0,7,Food,0,0,41,3,39,0
+3679,291,7,Food,0,0,41,3,39,0
 3680,89.59,7,Travel,0,0,55,3,45,0
 3681,250.09,17,Grocery,0,0,40,3,43,0
 3682,24.14,5,Food,0,0,81,0,62,0
@@ -3856,7 +3856,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 3855,195.13,9,Clothing,0,0,81,3,56,0
 3856,14.38,10,Grocery,0,0,31,0,33,0
 3857,78.84,4,Grocery,0,1,44,4,45,0
-3858,144.0,8,Grocery,0,0,80,2,52,0
+3858,144,8,Grocery,0,0,80,2,52,0
 3859,92.91,10,Electronics,0,0,96,2,49,0
 3860,322.85,18,Clothing,0,0,43,2,69,0
 3861,303.41,1,Travel,0,1,88,1,64,0
@@ -4001,7 +4001,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 4000,31.68,20,Grocery,0,1,47,3,49,0
 4001,152.75,0,Grocery,0,0,69,3,43,0
 4002,294.66,19,Food,0,0,65,2,50,0
-4003,257.0,17,Clothing,0,1,89,2,54,0
+4003,257,17,Clothing,0,1,89,2,54,0
 4004,30.08,2,Food,1,0,85,1,28,0
 4005,29.09,11,Food,0,0,30,2,37,0
 4006,56.2,18,Electronics,0,0,89,2,30,0
@@ -4105,7 +4105,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 4104,34.55,20,Travel,0,0,28,1,30,0
 4105,63.16,2,Clothing,0,0,27,4,68,0
 4106,196.22,17,Electronics,0,0,39,4,33,0
-4107,605.0,16,Food,0,0,92,3,36,0
+4107,605,16,Food,0,0,92,3,36,0
 4108,9.31,9,Grocery,0,0,67,2,41,0
 4109,397.94,1,Clothing,0,0,33,2,40,0
 4110,154.82,23,Grocery,0,0,49,0,21,0
@@ -4160,7 +4160,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 4159,569.04,7,Grocery,1,0,36,2,68,0
 4160,150.14,0,Travel,0,0,33,0,20,0
 4161,130.05,3,Electronics,0,0,91,2,27,0
-4162,16.0,18,Travel,0,0,61,1,19,0
+4162,16,18,Travel,0,0,61,1,19,0
 4163,143.28,4,Electronics,0,0,52,1,32,0
 4164,86.04,4,Travel,0,1,50,0,24,0
 4165,168.17,20,Clothing,0,0,45,3,37,0
@@ -4298,7 +4298,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 4297,27.88,20,Clothing,0,0,55,3,24,0
 4298,29.56,0,Travel,0,0,47,4,35,0
 4299,102.06,6,Clothing,1,1,45,4,65,0
-4300,163.0,20,Grocery,0,0,36,3,37,0
+4300,163,20,Grocery,0,0,36,3,37,0
 4301,15.13,17,Food,0,0,28,4,43,0
 4302,505.12,11,Electronics,0,0,61,2,51,0
 4303,253.27,15,Grocery,0,1,99,1,56,0
@@ -4370,7 +4370,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 4369,32.11,17,Electronics,0,0,79,3,68,0
 4370,36.7,0,Travel,0,0,79,3,60,0
 4371,40.68,2,Electronics,0,0,62,0,45,0
-4372,88.0,14,Clothing,0,0,43,3,36,0
+4372,88,14,Clothing,0,0,43,3,36,0
 4373,9.45,19,Electronics,0,0,46,2,19,0
 4374,91.29,9,Grocery,0,0,35,2,18,0
 4375,129.03,20,Clothing,0,0,27,2,62,0
@@ -4616,20 +4616,20 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 4615,51.43,21,Clothing,0,1,66,1,53,0
 4616,68.61,15,Clothing,0,0,36,2,68,0
 4617,297.82,12,Travel,0,0,51,0,63,0
-4618,375.0,3,Food,0,0,79,2,24,0
+4618,375,3,Food,0,0,79,2,24,0
 4619,64.84,23,Electronics,0,0,28,1,21,0
 4620,352.23,8,Clothing,0,0,59,0,29,0
 4621,350.37,20,Grocery,0,0,89,1,24,0
 4622,260.4,17,Clothing,0,0,53,2,63,0
 4623,28.55,14,Clothing,0,0,96,2,32,0
-4624,211.0,14,Electronics,0,0,96,1,23,0
+4624,211,14,Electronics,0,0,96,1,23,0
 4625,522.15,5,Electronics,0,0,60,1,34,0
 4626,206.53,10,Food,0,0,58,3,34,0
 4627,72.52,7,Clothing,0,0,60,1,61,0
 4628,124.98,20,Clothing,0,1,79,0,21,0
 4629,186.78,16,Travel,0,0,28,1,24,0
 4630,128.61,23,Travel,0,0,35,1,53,0
-4631,23.0,16,Grocery,0,0,83,4,24,0
+4631,23,16,Grocery,0,0,83,4,24,0
 4632,67.33,23,Grocery,0,0,27,2,55,0
 4633,291.87,17,Travel,0,0,98,1,53,0
 4634,355.73,3,Grocery,0,0,36,2,59,0
@@ -4752,7 +4752,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 4751,75.13,2,Food,0,0,83,3,55,0
 4752,105.72,3,Clothing,0,0,91,3,37,0
 4753,202.63,11,Electronics,1,0,65,1,40,0
-4754,128.0,4,Clothing,0,0,43,2,67,0
+4754,128,4,Clothing,0,0,43,2,67,0
 4755,355.77,16,Travel,0,0,53,1,46,0
 4756,361.83,5,Travel,0,0,56,2,39,0
 4757,1.79,9,Grocery,0,1,34,2,38,0
@@ -4770,7 +4770,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 4769,220.58,23,Clothing,0,0,84,4,33,0
 4770,76.32,7,Electronics,0,0,56,0,36,0
 4771,1.26,6,Clothing,0,0,74,1,22,0
-4772,93.0,18,Clothing,0,0,95,2,40,0
+4772,93,18,Clothing,0,0,95,2,40,0
 4773,48.16,16,Food,0,0,59,1,20,0
 4774,307.54,20,Electronics,0,0,29,2,63,0
 4775,74.07,12,Travel,0,0,55,1,67,0
@@ -4806,7 +4806,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 4805,309.92,16,Food,0,0,48,0,28,0
 4806,141.6,2,Food,0,0,28,2,47,0
 4807,14.59,5,Food,0,0,74,1,52,0
-4808,560.0,13,Food,0,0,48,1,52,0
+4808,560,13,Food,0,0,48,1,52,0
 4809,51.05,14,Clothing,0,0,60,3,59,0
 4810,353.44,13,Travel,0,1,59,2,59,0
 4811,33.28,10,Food,0,0,53,3,69,0
@@ -4922,7 +4922,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 4921,546.81,5,Grocery,1,1,53,2,45,0
 4922,241.04,17,Electronics,1,0,70,2,23,0
 4923,163.78,23,Grocery,0,0,94,3,26,0
-4924,383.0,19,Electronics,0,0,97,0,28,0
+4924,383,19,Electronics,0,0,97,0,28,0
 4925,9.16,8,Clothing,0,0,69,6,25,0
 4926,53.49,7,Electronics,1,0,77,0,64,0
 4927,112.6,13,Travel,0,0,26,2,69,0
@@ -4934,7 +4934,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 4933,586.51,5,Grocery,0,0,38,3,28,0
 4934,105.93,2,Food,0,0,73,2,56,0
 4935,120.87,2,Travel,0,0,93,3,22,0
-4936,78.0,18,Clothing,0,0,49,0,48,0
+4936,78,18,Clothing,0,0,49,0,48,0
 4937,432.53,10,Clothing,0,0,38,2,33,0
 4938,151.48,9,Grocery,0,0,63,1,29,0
 4939,258.52,11,Grocery,0,0,36,2,47,0
@@ -4983,7 +4983,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 4982,49.96,23,Electronics,0,0,45,1,29,0
 4983,195.95,15,Travel,0,0,49,3,52,0
 4984,328.85,9,Travel,0,0,82,1,21,0
-4985,144.0,20,Food,0,0,62,2,36,0
+4985,144,20,Food,0,0,62,2,36,0
 4986,29.92,9,Travel,0,0,70,1,67,0
 4987,234.43,23,Food,0,0,99,1,61,0
 4988,165.05,5,Food,0,0,28,4,63,0
@@ -5403,7 +5403,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 5402,612.58,5,Food,1,0,68,1,53,0
 5403,571.21,15,Travel,0,1,73,2,43,0
 5404,51.22,19,Electronics,0,0,87,6,43,0
-5405,77.0,23,Electronics,0,0,69,3,28,0
+5405,77,23,Electronics,0,0,69,3,28,0
 5406,406.64,14,Food,0,1,96,2,42,0
 5407,611.98,13,Grocery,1,1,31,0,53,1
 5408,105.48,1,Travel,0,1,27,3,59,1
@@ -5623,7 +5623,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 5622,435.69,3,Clothing,0,0,35,1,38,0
 5623,309.17,20,Clothing,0,0,51,1,38,0
 5624,256.91,13,Travel,0,0,45,2,57,0
-5625,9.0,4,Food,0,0,98,0,28,0
+5625,9,4,Food,0,0,98,0,28,0
 5626,334.11,15,Clothing,0,0,37,6,44,0
 5627,103.74,13,Grocery,0,0,69,2,22,0
 5628,75.45,13,Electronics,0,0,71,2,30,0
@@ -5800,7 +5800,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 5799,600.14,16,Electronics,0,1,95,1,35,0
 5800,32.18,17,Grocery,0,0,54,5,48,0
 5801,64.05,6,Travel,0,0,52,0,52,0
-5802,19.0,18,Grocery,0,0,38,5,45,0
+5802,19,18,Grocery,0,0,38,5,45,0
 5803,57.07,6,Electronics,0,0,42,2,18,0
 5804,304.66,4,Grocery,0,0,81,5,48,0
 5805,85.56,7,Food,0,0,49,4,69,0
@@ -5858,7 +5858,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 5857,27.96,5,Travel,1,1,27,1,35,1
 5858,1.56,22,Grocery,0,0,61,3,39,0
 5859,3.63,7,Clothing,0,0,50,1,25,0
-5860,159.0,4,Food,0,0,49,3,57,0
+5860,159,4,Food,0,0,49,3,57,0
 5861,109.38,9,Travel,0,0,64,0,64,0
 5862,131.37,21,Travel,0,0,67,0,57,0
 5863,1.35,15,Grocery,0,0,68,2,27,0
@@ -6148,7 +6148,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 6147,129.24,19,Food,0,0,99,5,47,0
 6148,120.28,7,Electronics,0,0,55,0,49,0
 6149,176.59,0,Travel,0,0,75,1,25,0
-6150,526.0,23,Clothing,0,0,91,1,27,0
+6150,526,23,Clothing,0,0,91,1,27,0
 6151,156.05,23,Travel,0,0,25,4,28,0
 6152,139.86,14,Electronics,0,0,68,6,44,0
 6153,9.29,18,Electronics,0,0,74,3,23,0
@@ -6183,7 +6183,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 6182,42.46,1,Electronics,0,0,50,1,50,0
 6183,22.26,3,Grocery,1,0,87,4,32,0
 6184,631.88,11,Grocery,0,0,44,2,19,0
-6185,4.0,15,Grocery,0,0,46,4,56,0
+6185,4,15,Grocery,0,0,46,4,56,0
 6186,292.14,9,Clothing,0,0,81,3,67,0
 6187,279.24,2,Food,0,0,81,1,44,0
 6188,63.49,3,Electronics,0,0,50,2,64,0
@@ -6662,7 +6662,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 6661,152.87,10,Food,0,0,84,3,59,0
 6662,104.96,20,Food,0,0,48,2,46,0
 6663,76.63,10,Grocery,0,0,60,2,53,0
-6664,247.0,17,Grocery,0,0,73,2,24,0
+6664,247,17,Grocery,0,0,73,2,24,0
 6665,403.15,7,Travel,0,0,83,5,39,0
 6666,254.49,6,Travel,1,0,38,0,42,0
 6667,72.62,13,Electronics,0,0,63,3,28,0
@@ -6972,7 +6972,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 6971,39.93,22,Electronics,0,0,53,2,24,0
 6972,165.69,6,Food,0,0,43,1,39,0
 6973,11.27,23,Food,0,0,52,3,28,0
-6974,96.0,15,Food,1,0,34,2,21,0
+6974,96,15,Food,1,0,34,2,21,0
 6975,142.38,7,Travel,0,1,91,0,35,0
 6976,103.1,9,Food,0,0,40,4,28,0
 6977,248.58,13,Travel,0,0,25,1,50,0
@@ -7218,7 +7218,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 7217,150.14,19,Food,1,0,94,1,33,0
 7218,225.76,6,Grocery,1,0,62,5,37,0
 7219,499.66,4,Electronics,1,0,89,2,19,0
-7220,438.0,13,Electronics,0,0,74,2,33,0
+7220,438,13,Electronics,0,0,74,2,33,0
 7221,525.63,8,Food,0,1,25,4,52,0
 7222,50.52,9,Travel,0,0,45,3,36,0
 7223,25.39,6,Electronics,0,0,81,2,56,0
@@ -7330,11 +7330,11 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 7329,37.74,15,Grocery,0,0,83,2,43,0
 7330,153.38,4,Grocery,0,0,94,3,23,0
 7331,43.63,1,Clothing,0,0,67,0,50,0
-7332,356.0,0,Travel,0,1,78,4,46,0
+7332,356,0,Travel,0,1,78,4,46,0
 7333,513.09,21,Grocery,0,1,42,0,36,0
 7334,131.55,12,Food,0,1,79,3,49,0
 7335,78.18,15,Food,0,0,53,2,38,0
-7336,48.0,4,Electronics,1,0,85,0,34,0
+7336,48,4,Electronics,1,0,85,0,34,0
 7337,9.19,2,Travel,0,0,75,2,51,0
 7338,56.28,14,Travel,0,0,36,2,36,0
 7339,191.16,15,Clothing,0,0,85,3,28,0
@@ -7362,7 +7362,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 7361,219.43,20,Food,0,0,57,0,63,0
 7362,108.87,9,Clothing,0,0,88,4,35,0
 7363,140.01,17,Travel,0,0,95,0,27,0
-7364,341.0,2,Food,0,0,93,2,22,0
+7364,341,2,Food,0,0,93,2,22,0
 7365,117.75,11,Electronics,0,0,97,3,55,0
 7366,84.09,15,Grocery,0,0,54,0,38,0
 7367,122.35,17,Grocery,0,0,92,3,61,0
@@ -7423,7 +7423,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 7422,210.86,15,Travel,0,0,49,1,60,0
 7423,89.08,0,Clothing,0,1,29,1,51,1
 7424,96.74,3,Travel,0,0,26,0,28,0
-7425,114.0,5,Electronics,0,0,87,2,54,0
+7425,114,5,Electronics,0,0,87,2,54,0
 7426,82.51,20,Travel,0,0,78,4,65,0
 7427,19.09,19,Grocery,0,0,62,3,64,0
 7428,66.7,13,Electronics,0,0,41,3,34,0
@@ -7597,7 +7597,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 7596,832.98,22,Travel,0,0,28,4,65,0
 7597,42.29,0,Electronics,0,0,56,2,43,0
 7598,2.13,8,Grocery,0,0,36,1,68,0
-7599,1073.0,13,Food,0,0,78,3,22,0
+7599,1073,13,Food,0,0,78,3,22,0
 7600,59.4,14,Electronics,0,0,54,1,21,0
 7601,198.48,23,Food,0,0,33,2,54,0
 7602,34.99,0,Food,0,0,43,1,50,0
@@ -7737,7 +7737,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 7736,180.85,2,Electronics,0,0,26,5,25,1
 7737,442.91,1,Electronics,0,0,92,3,33,0
 7738,42.12,22,Clothing,0,0,68,4,43,0
-7739,197.0,3,Clothing,0,0,62,2,38,0
+7739,197,3,Clothing,0,0,62,2,38,0
 7740,14.75,16,Electronics,0,1,84,0,65,0
 7741,166.63,5,Clothing,0,0,51,1,59,0
 7742,32.23,10,Grocery,1,0,39,1,68,0
@@ -7838,7 +7838,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 7837,167.52,5,Clothing,0,0,65,2,32,0
 7838,211.9,18,Electronics,0,0,29,2,65,0
 7839,86.94,3,Travel,0,0,30,1,64,0
-7840,366.0,3,Clothing,0,0,86,2,32,0
+7840,366,3,Clothing,0,0,86,2,32,0
 7841,151.21,23,Clothing,0,0,40,2,63,0
 7842,104.21,6,Travel,0,1,43,2,34,0
 7843,12.53,6,Travel,0,0,61,1,34,0
@@ -7879,7 +7879,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 7878,88.1,17,Travel,0,0,55,1,37,0
 7879,187.55,6,Travel,0,0,63,1,31,0
 7880,8.24,10,Electronics,1,0,91,1,43,0
-7881,10.0,3,Food,0,0,46,2,68,0
+7881,10,3,Food,0,0,46,2,68,0
 7882,109.99,12,Travel,0,0,76,1,42,0
 7883,143.58,8,Grocery,0,0,34,2,36,0
 7884,393.77,8,Electronics,0,0,32,3,64,0
@@ -7888,7 +7888,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 7887,42.44,18,Clothing,0,0,42,2,23,0
 7888,90.18,2,Grocery,0,0,36,1,23,0
 7889,68.52,11,Grocery,0,0,88,3,50,0
-7890,92.0,10,Clothing,1,0,81,2,27,0
+7890,92,10,Clothing,1,0,81,2,27,0
 7891,29.36,19,Clothing,0,0,26,3,44,0
 7892,126.06,10,Clothing,0,0,41,2,39,0
 7893,291.18,16,Food,0,0,76,4,34,0
@@ -7966,7 +7966,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 7965,164.17,3,Travel,0,0,91,1,22,0
 7966,5.66,14,Food,0,0,71,4,22,0
 7967,57.86,4,Electronics,0,0,40,1,36,0
-7968,6.0,19,Food,0,0,95,0,69,0
+7968,6,19,Food,0,0,95,0,69,0
 7969,98.16,19,Food,0,0,42,2,52,0
 7970,405.85,4,Food,1,0,69,2,29,0
 7971,729.77,9,Clothing,0,0,47,2,68,0
@@ -8019,7 +8019,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 8018,173.09,19,Travel,1,0,80,2,27,0
 8019,109.69,13,Clothing,0,0,36,3,69,0
 8020,404.13,4,Clothing,0,0,77,2,34,0
-8021,124.0,14,Food,0,0,32,6,51,0
+8021,124,14,Food,0,0,32,6,51,0
 8022,331.91,14,Clothing,0,0,82,1,45,0
 8023,290.92,15,Clothing,1,0,48,3,40,0
 8024,95.13,15,Electronics,0,0,85,2,66,0
@@ -8154,7 +8154,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 8153,19.6,8,Grocery,0,0,90,2,67,0
 8154,515.71,0,Food,0,0,28,3,43,0
 8155,285.32,15,Travel,1,0,94,0,34,0
-8156,36.0,8,Food,0,0,81,1,29,0
+8156,36,8,Food,0,0,81,1,29,0
 8157,224.07,10,Food,0,0,85,1,55,0
 8158,87.49,5,Clothing,0,0,80,2,41,0
 8159,92.64,16,Grocery,0,0,38,0,23,0
@@ -8168,7 +8168,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 8167,9.66,16,Electronics,0,0,98,0,21,0
 8168,208.24,23,Food,0,0,77,2,53,0
 8169,103.15,20,Grocery,1,0,68,5,49,0
-8170,39.0,7,Electronics,0,0,52,1,64,0
+8170,39,7,Electronics,0,0,52,1,64,0
 8171,304.74,9,Travel,0,0,70,2,30,0
 8172,292.02,17,Clothing,0,0,73,0,54,0
 8173,119.93,14,Clothing,0,0,91,1,32,0
@@ -8189,7 +8189,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 8188,495.15,6,Food,0,0,96,2,32,0
 8189,132.17,22,Clothing,0,0,94,1,49,0
 8190,81.69,0,Food,0,0,48,2,39,0
-8191,372.0,6,Travel,0,0,60,1,66,0
+8191,372,6,Travel,0,0,60,1,66,0
 8192,90.45,14,Electronics,0,0,29,2,63,0
 8193,73.44,10,Electronics,0,0,44,0,42,0
 8194,41.81,5,Electronics,0,0,77,2,22,0
@@ -8262,7 +8262,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 8261,16.11,9,Electronics,0,0,93,3,32,0
 8262,36.48,19,Food,0,0,77,2,44,0
 8263,255.69,1,Grocery,1,0,43,2,36,0
-8264,4.0,23,Travel,0,0,90,2,19,0
+8264,4,23,Travel,0,0,90,2,19,0
 8265,305.57,9,Electronics,0,0,72,2,25,0
 8266,2.53,7,Food,0,0,90,2,55,0
 8267,192.67,16,Grocery,0,0,97,1,28,0
@@ -8274,7 +8274,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 8273,12.99,17,Electronics,0,0,57,2,31,0
 8274,160.02,8,Grocery,0,0,84,3,69,0
 8275,132.36,7,Clothing,0,0,83,2,67,0
-8276,244.0,9,Electronics,0,0,50,3,25,0
+8276,244,9,Electronics,0,0,50,3,25,0
 8277,128.31,3,Travel,0,0,41,1,23,0
 8278,98.81,19,Electronics,0,0,77,0,63,0
 8279,91.38,7,Grocery,1,0,67,1,49,0
@@ -8301,7 +8301,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 8300,317.4,9,Clothing,0,0,48,3,61,0
 8301,279.44,21,Grocery,0,0,67,4,58,0
 8302,53.96,16,Food,0,0,98,1,31,0
-8303,222.0,1,Food,0,0,50,2,27,0
+8303,222,1,Food,0,0,50,2,27,0
 8304,43.54,18,Travel,1,0,53,4,43,0
 8305,7.41,19,Grocery,0,0,26,3,42,0
 8306,40.42,5,Clothing,0,0,54,2,39,0
@@ -8434,7 +8434,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 8433,11.91,5,Clothing,0,0,89,2,33,0
 8434,357.06,1,Grocery,0,1,54,3,40,0
 8435,586.28,20,Food,0,0,71,2,62,0
-8436,51.0,6,Clothing,0,0,55,3,33,0
+8436,51,6,Clothing,0,0,55,3,33,0
 8437,107.64,13,Travel,0,0,84,3,68,0
 8438,4.03,21,Grocery,0,0,99,0,51,0
 8439,184.25,13,Electronics,0,0,33,2,47,0
@@ -8592,7 +8592,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 8591,338.34,7,Electronics,0,0,73,4,18,0
 8592,1.73,23,Travel,0,0,83,2,67,0
 8593,92.82,17,Grocery,0,0,84,0,62,0
-8594,428.0,15,Travel,0,0,70,1,68,0
+8594,428,15,Travel,0,0,70,1,68,0
 8595,242.69,19,Electronics,0,0,87,0,21,0
 8596,140.89,19,Food,0,0,56,1,18,0
 8597,135.77,15,Food,0,0,90,3,65,0
@@ -8627,7 +8627,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 8626,166.96,6,Travel,0,0,48,0,30,0
 8627,58.39,15,Clothing,0,0,89,1,27,0
 8628,356.93,12,Electronics,1,0,53,3,50,0
-8629,60.0,2,Grocery,1,0,25,2,45,1
+8629,60,2,Grocery,1,0,25,2,45,1
 8630,208.94,23,Electronics,0,0,25,5,38,0
 8631,201.88,23,Travel,0,0,97,0,38,0
 8632,45.07,8,Electronics,0,0,45,3,46,0
@@ -8641,7 +8641,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 8640,166.86,23,Grocery,0,1,94,0,35,0
 8641,315.97,5,Grocery,0,0,79,2,53,0
 8642,99.61,9,Food,1,0,81,2,32,0
-8643,58.0,10,Clothing,0,0,35,0,33,0
+8643,58,10,Clothing,0,0,35,0,33,0
 8644,55.43,15,Travel,0,1,40,3,30,0
 8645,138.29,15,Electronics,1,1,86,3,68,0
 8646,107.33,23,Clothing,0,0,51,0,43,0
@@ -8724,7 +8724,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 8723,44.74,8,Grocery,0,0,98,2,55,0
 8724,88.54,19,Travel,1,0,29,2,27,0
 8725,361.42,2,Grocery,0,0,28,5,43,1
-8726,232.0,14,Clothing,0,0,39,1,40,0
+8726,232,14,Clothing,0,0,39,1,40,0
 8727,93.1,23,Clothing,0,0,26,1,56,0
 8728,43.51,16,Travel,0,0,73,3,35,0
 8729,79.2,15,Clothing,0,0,80,2,21,0
@@ -8856,7 +8856,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 8855,118.34,4,Food,0,0,73,1,53,0
 8856,23.9,2,Travel,0,0,68,1,37,0
 8857,43.41,14,Grocery,0,0,76,3,35,0
-8858,12.0,16,Food,0,0,55,1,45,0
+8858,12,16,Food,0,0,55,1,45,0
 8859,153.72,22,Clothing,0,0,96,3,64,0
 8860,175.13,12,Grocery,0,0,73,1,55,0
 8861,126.85,14,Travel,0,0,70,0,55,0
@@ -8990,7 +8990,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 8989,306.66,4,Food,0,0,79,0,24,0
 8990,159.48,12,Travel,0,0,99,2,27,0
 8991,52.31,9,Travel,0,0,66,1,35,0
-8992,41.0,2,Food,0,0,85,3,57,0
+8992,41,2,Food,0,0,85,3,57,0
 8993,74.9,22,Clothing,0,0,62,3,50,0
 8994,116.52,12,Clothing,0,0,29,1,32,0
 8995,63.19,11,Food,0,0,72,3,28,0
@@ -9075,7 +9075,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 9074,131.05,4,Clothing,0,1,96,7,26,0
 9075,83.17,22,Electronics,1,0,58,2,54,0
 9076,243.01,16,Clothing,0,0,40,3,26,0
-9077,276.0,16,Grocery,0,0,95,1,36,0
+9077,276,16,Grocery,0,0,95,1,36,0
 9078,259.36,12,Travel,0,0,51,3,56,0
 9079,230.82,21,Clothing,0,0,75,1,29,0
 9080,41.18,6,Food,0,0,78,1,25,0
@@ -9297,10 +9297,10 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 9296,418.55,6,Grocery,0,0,45,2,69,0
 9297,375.33,9,Electronics,0,0,47,2,66,0
 9298,290.98,23,Grocery,0,1,50,4,56,0
-9299,517.0,0,Electronics,0,0,96,4,52,0
+9299,517,0,Electronics,0,0,96,4,52,0
 9300,18.66,13,Food,0,0,54,3,45,0
 9301,55.45,2,Electronics,0,0,93,3,65,0
-9302,123.0,12,Electronics,0,0,48,1,54,0
+9302,123,12,Electronics,0,0,48,1,54,0
 9303,337.37,1,Clothing,0,0,98,1,58,0
 9304,126.64,16,Electronics,0,0,88,1,20,0
 9305,248.12,20,Clothing,0,0,59,1,61,0
@@ -9417,7 +9417,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 9416,13.23,9,Travel,0,0,47,1,68,0
 9417,164.12,22,Clothing,0,0,79,3,62,0
 9418,55.27,3,Grocery,0,0,39,1,43,0
-9419,135.0,15,Food,0,0,75,0,60,0
+9419,135,15,Food,0,0,75,0,60,0
 9420,131.16,19,Grocery,0,0,74,3,32,0
 9421,464.71,5,Grocery,0,0,71,1,33,0
 9422,143.37,8,Clothing,1,0,49,0,18,0
@@ -9436,7 +9436,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 9435,63.56,1,Food,0,0,63,3,68,0
 9436,63.26,18,Electronics,0,0,50,1,51,0
 9437,232.75,2,Clothing,0,0,66,2,38,0
-9438,47.0,1,Travel,1,0,86,3,62,0
+9438,47,1,Travel,1,0,86,3,62,0
 9439,0.16,1,Grocery,0,0,77,2,30,0
 9440,226.1,21,Clothing,0,0,91,2,26,0
 9441,33.8,6,Food,0,0,74,3,24,0
@@ -9548,7 +9548,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 9547,28.33,18,Grocery,0,0,47,3,46,0
 9548,6.12,17,Travel,0,0,41,2,49,0
 9549,114.36,19,Grocery,0,0,93,1,41,0
-9550,556.0,6,Travel,0,0,90,4,61,0
+9550,556,6,Travel,0,0,90,4,61,0
 9551,22.13,22,Clothing,0,0,47,0,20,0
 9552,526.26,8,Clothing,0,0,99,4,50,0
 9553,237.94,11,Food,0,1,47,0,21,0
@@ -9643,7 +9643,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 9642,125.14,0,Grocery,0,0,76,1,32,0
 9643,69.86,10,Clothing,0,1,82,3,69,0
 9644,25.51,1,Food,0,0,81,0,29,0
-9645,85.0,15,Food,0,0,62,1,28,0
+9645,85,15,Food,0,0,62,1,28,0
 9646,200.8,21,Electronics,0,0,93,4,42,0
 9647,274.51,2,Electronics,0,0,61,5,21,0
 9648,136.19,19,Grocery,0,0,99,0,62,0
@@ -9778,7 +9778,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 9777,138.81,23,Electronics,1,0,69,2,49,0
 9778,959.53,9,Grocery,1,0,48,1,25,0
 9779,91.68,19,Grocery,0,0,79,3,60,0
-9780,172.0,2,Grocery,0,1,56,5,24,1
+9780,172,2,Grocery,0,1,56,5,24,1
 9781,81.81,18,Food,0,0,31,1,24,0
 9782,89.8,4,Electronics,0,0,44,3,45,0
 9783,214.12,2,Clothing,0,0,43,1,59,0
@@ -9844,7 +9844,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 9843,62.68,19,Grocery,0,0,54,1,24,0
 9844,222.97,20,Travel,0,0,68,6,24,0
 9845,22.07,13,Clothing,0,0,33,4,44,0
-9846,94.0,20,Clothing,0,0,35,1,46,0
+9846,94,20,Clothing,0,0,35,1,46,0
 9847,339.06,12,Grocery,1,0,90,1,28,0
 9848,82.5,3,Travel,0,0,46,1,22,0
 9849,160.97,19,Grocery,0,0,44,0,60,0
@@ -9856,7 +9856,7 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 9855,357.84,17,Clothing,0,0,55,1,50,0
 9856,118.19,6,Grocery,0,0,49,2,54,0
 9857,14.72,11,Travel,1,0,73,3,59,0
-9858,148.0,0,Travel,0,0,94,2,19,0
+9858,148,0,Travel,0,0,94,2,19,0
 9859,72.64,21,Clothing,0,0,88,3,50,0
 9860,30.3,3,Grocery,0,0,80,0,21,0
 9861,340.33,17,Food,0,0,31,2,52,0
@@ -9896,12 +9896,12 @@ transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,loc
 9895,235.42,21,Electronics,0,0,97,3,36,0
 9896,19.01,9,Food,0,0,32,1,26,0
 9897,227.7,16,Grocery,0,0,34,1,59,0
-9898,205.0,18,Clothing,0,0,78,3,63,0
+9898,205,18,Clothing,0,0,78,3,63,0
 9899,319.93,9,Electronics,1,0,90,2,27,0
 9900,7.65,11,Travel,0,0,68,0,20,0
 9901,4.21,22,Food,0,0,72,0,34,0
 9902,84.03,6,Food,0,0,95,2,27,0
-9903,29.0,17,Electronics,0,1,26,2,42,0
+9903,29,17,Electronics,0,1,26,2,42,0
 9904,147.12,18,Food,0,0,30,4,60,0
 9905,448.76,14,Food,0,0,69,1,68,0
 9906,89.41,6,Travel,0,1,34,2,67,0
